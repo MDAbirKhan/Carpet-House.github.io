@@ -438,6 +438,7 @@ button#f-button {
 
 .copyright-text p {
     color: white;
+    font-weight: 300;
 }
 
 .copyright-content ul li a {
