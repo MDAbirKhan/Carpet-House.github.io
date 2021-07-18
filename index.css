@@ -346,6 +346,11 @@ ul#u-links li a {
     color: black;
 }
 
+ul#u-links li a i {
+    color: black;
+    margin-right: 5px;
+}
+
 
 .fsearch {
     width: 350px;
